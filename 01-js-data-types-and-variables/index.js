@@ -89,13 +89,13 @@
 
 // Uncomment the code below to properly declare and assign a value to "x" using "const"
 
-// const x;
+const x;
 
-// const x = 5;
+const x = 5;
 
-// const x;
+const x;
 
-// console.log(`Success! x = ${x}`);
+console.log(`Success! x = ${x}`);
 
 // 🚨 Be sure to comment out any code above before proceeding to the next activity.
 
